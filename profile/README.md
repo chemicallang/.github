@@ -14,5 +14,3 @@
 </div>
 
 Meet the most flexible and easy programming language, which compiles directly to machine code and is very performant.
-
-This organization contains only docs, proposals, official libraries and other stuff related to Chemical Programming Language but not the Chemical Compiler's source code, that's present in Qinetik's Oragnization.
