@@ -5,7 +5,7 @@
 <h1>The Chemical Programming Language</h1>
     
 [Source Code](https://github.com/chemicallang/chemical)
-| [Website](https://chemical.qinetik.org)
+| [Website](https://chemicallang.github.io/)
 | [Docs](https://github.com/chemicallang/chemical/blob/main/lang/docs/README.md)
 | [Changelog](https://github.com/chemicallang/chemical/blob/main/lang/docs/CHANGELOG.md)
 | [Speed](https://chemical.qinetik.org/speed)
