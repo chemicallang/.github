@@ -6,11 +6,10 @@
     
 [Source Code](https://github.com/chemicallang/chemical)
 | [Website](https://chemicallang.com)
-| [Docs](https://github.com/chemicallang/chemical/blob/main/lang/docs/README.md)
-| [Changelog](https://github.com/chemicallang/chemical/blob/main/lang/docs/CHANGELOG.md)
-| [Speed](https://chemical.qinetik.org/speed)
+| [Docs](https://docs.chemicallang.com)
+| [Changelog](https://github.com/chemicallang/chemical/releases)
 | [Contributing & compiler design](https://github.com/chemicallang/chemical/blob/main/lang/docs/CONTRIBUTING.md)
 
 </div>
 
-Meet the most flexible and easy programming language, which compiles directly to machine code and is very performant.
+<p align="center">Meet Chemical, A High Performance Native Programming Language built for the Web</p>
